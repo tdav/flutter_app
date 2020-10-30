@@ -1,0 +1,45 @@
+{
+  "lan": "2",
+  "search_hint": "Dori yoki simptom bo'yicha",
+  "cancel": "Bekor qilish",
+  "yes": "Ha",
+  "from": " dan",
+  "sum": " so'm",
+  "km": " Km",
+  "internet_error": "Ulanishda xatolik bor",
+  "store_count": "So'rovingizdagi dorilardan",
+  "store_uz": "donasi",
+  "home": {
+    "title": "Qidiruvni boshlash",
+    "card": "Savatcha",
+    "flash_on": "Chiroqni yoqish",
+    "flash_off": "Chiroqni o'chirish",
+    "region_title": "Hududni tanlang",
+    "search": "Qidirish",
+    "delete_history_dialog_title": "Haqiqatdan savatchani bo'shatmoqchimisiz?",
+    "empty_card_dialog": "Savatcha bo'shatildi",
+    "empty_drug_title": "Savatchangiz bo'sh",
+    "empty_drug_message": "Kerakli dorilarni qidirish va savatchaga qo'shishni boshlash"
+  },
+  "search": {
+    "search_hint": "Dori yoki simptom bo'yicha",
+    "cancel": "Bekor qilish",
+    "history_empty_title": "Qidiruv tarixi bo'sh",
+    "history_empty_message": "Kerakli dorilarni qidirishni hoziroq boshlang.",
+    "history_title": "Qidiruv tarixi",
+    "clear_title": "Haqiqatdan qidiruv tarixini o'chirmoqchimisiz?",
+    "empty_search_dialog": "Qidiruv tarixi o'chirildi",
+    "empty_drug_title": "Mavjud emas",
+    "empty_drug_message": "Bunday dori hozircha mavjud emas. Katalogdan o'rnini bosadiganlarini ko'rishingiz mumkin",
+    "category": "Katalogda",
+    "add_card": "Savatchada"
+  },
+  "map": {
+    "title": "Dorixonani tanlash",
+    "map": "Haritada",
+    "list": "Ro'yxat",
+    "route": "Yo'nalishni ko'rsatish",
+    "empty_drug_title": "Sizning so'rovingiz bo'yicha hech narsa topilmadi",
+    "empty_drug_message": "Dorilar miqdorini kamaytiring yoki boshqa dorilarni qidirib ko'ring"
+  }
+}

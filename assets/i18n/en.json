@@ -1,0 +1,44 @@
+{
+  "lan": "1",
+  "search_hint": "By medicine or symptom",
+  "cancel": "Cancel",
+  "yes": "Yes",
+  "from": "from ",
+  "sum": " UZS",
+  "km": " Km",
+  "internet_error": "Connection error",
+  "store_count": "medicines from your search",
+  "home": {
+    "title": "Begin search",
+    "card": "Cart",
+    "flash_on": "Flash on",
+    "flash_off": "Flash off",
+    "region_title": "Choose the region",
+    "search": "Search",
+    "delete_history_dialog_title": "Are you sure that you want to empty the cart?",
+    "empty_card_dialog": "Cart emptied",
+    "empty_drug_title": "Cart is empty",
+    "empty_drug_message": "Start searching for the necessary medicines and add them to your cart"
+  },
+  "search": {
+    "search_hint": "By medicine or symptom",
+    "cancel": "Cancel",
+    "history_empty_title": "Search history is empty",
+    "history_empty_message": "Start searching medicines right now.",
+    "history_title": "Search history",
+    "clear_title": "Are you sure that you want to clear your search history?",
+    "empty_search_dialog": "Search history deleted",
+    "empty_drug_title": "Out of stock",
+    "empty_drug_message": "This product is not available. You can view substitutes in the catalog",
+    "category": "In the catalog",
+    "add_card": "In the cart"
+  },
+  "map": {
+    "title": "Choose the pharmacy",
+    "map": "On a map",
+    "list": "List",
+    "route": "Show the route",
+    "empty_drug_title": "Nothing was found for your search",
+    "empty_drug_message": "Try reducing the quantity or searching for another drug"
+  }
+}
