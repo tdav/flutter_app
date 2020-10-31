@@ -92,6 +92,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.0"
+  custom_navigation_bar:
+    dependency: "direct main"
+    description:
+      name: custom_navigation_bar
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.4.0"
   device_info:
     dependency: "direct main"
     description:
@@ -160,6 +167,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.4.0"
+  flutter_icons:
+    dependency: "direct main"
+    description:
+      name: flutter_icons
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.1.0"
   flutter_localizations:
     dependency: "direct main"
     description: flutter
